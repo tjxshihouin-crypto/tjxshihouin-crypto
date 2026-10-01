@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=610&height=44&lines=Undefined%20is%20not%20a%20function%2C%20But%20I%20am.;I%20am%20a%20Software%20Engineer%20Student" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me!
 
 📍SJ | WGU 28 | Day In The Life ⌨️SWE | College | Cybersecurity | Videographer | Video Editor | Certified!
 
-😄 &nbsp;Pronouns: **He/Him**  
-🔭 &nbsp;I'm currently working on **A COR3 Developer Tool.**  
-🌱 &nbsp;I'm currently learning **Infrastructure &amp; DevOps**  
-💬 &nbsp;Ask me about **Cybersecurity**  
-⚡ &nbsp;Fun fact: **I have attended the first ever We Are Developers Conference in North America.**
+ &nbsp;Pronouns: **He/Him**  
+ &nbsp;I'm currently working on **A COR3 Developer Tool.**  
+ &nbsp;I'm currently learning **Infrastructure &amp; DevOps**  
+ &nbsp;Ask me about **Cybersecurity**  
+ &nbsp;Fun fact: **I have attended the first ever We Are Developers Conference in North America.**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://x.com/TJxSHIIHOUIN"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -60,17 +60,17 @@
   <a href="https://www.linkedin.com/in/tyshawn-hill-1935262b2/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=tjxshihouin-crypto&show_icons=true&theme=default&title_color=5b6573&icon_color=5b6573&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=tjxshihouin-crypto&bg_color=00000000&color=5b6573&line=5b6573&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/tjxshihouin-crypto">tjxshihouin-crypto</a></i></p>
+<p align="center"><I>🫶🏾 From <a href="https://github.com/tjxshihouin-crypto">tjxshihouin-crypto</a></i></p>
