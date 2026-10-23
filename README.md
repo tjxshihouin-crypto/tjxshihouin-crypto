@@ -13,7 +13,7 @@
 📍SJ | WGU 28 | Day In The Life ⌨️SWE | College | Cybersecurity | Videographer | Video Editor | Certified!
 
  &nbsp;Pronouns: **He/Him**  
- &nbsp;I'm currently working on **A COR3 Developer Tool.**  
+ &nbsp;I'm currently working on **Project Reclaimer.**  
  &nbsp;I'm currently learning **Infrastructure &amp; DevOps**  
  &nbsp;Ask me about **Cybersecurity**  
  &nbsp;Fun fact: **I have attended the first ever We Are Developers Conference in North America.**
