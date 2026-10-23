@@ -10,7 +10,7 @@
 
 ### About Me!
 
-📍SJ | WGU 28 | Day In The Life ⌨️SWE | College | Cybersecurity | Videographer | Video Editor | Certified!
+📍SJ | WGU 28 | Day In The Life ⌨️SWE | College | Cybersecurity | Videographer | Video Editor | ROCm Certified!
 
  &nbsp;Pronouns: **He/Him**  
  &nbsp;I'm currently working on **Project Reclaimer.**  
